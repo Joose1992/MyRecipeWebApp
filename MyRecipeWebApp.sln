@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRecipeWebApp", "MyRecipeWebApp\MyRecipeWebApp.csproj", "{AB1FCC6E-3AC3-4862-B6E0-1D422F04951E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipesWebApp.Data", "RecipesWebApp.Data\RecipesWebApp.Data.csproj", "{8DFEED8C-7F55-47D9-8969-44D61C1ACF18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB1FCC6E-3AC3-4862-B6E0-1D422F04951E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB1FCC6E-3AC3-4862-B6E0-1D422F04951E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB1FCC6E-3AC3-4862-B6E0-1D422F04951E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB1FCC6E-3AC3-4862-B6E0-1D422F04951E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DFEED8C-7F55-47D9-8969-44D61C1ACF18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DFEED8C-7F55-47D9-8969-44D61C1ACF18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DFEED8C-7F55-47D9-8969-44D61C1ACF18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DFEED8C-7F55-47D9-8969-44D61C1ACF18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

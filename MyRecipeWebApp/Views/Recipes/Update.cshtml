@@ -1,0 +1,56 @@
+@model RecipesViewModel
+@using RecipesWebApp.Data.Models;
+
+@{
+    string pageType = Model.CurrentRecipe.RecipeId > 0 ? "Update Recipe" : "Create Recipe";
+
+    ViewData["Title"] = $"Practice Application | {pageType}";
+}
+
+<form action="~/Recipes/Index" method="post">
+    <div id="info">
+        <div class="row">
+            <div class="col-6 offset-3 text-center">
+                <h1 class="display-4" style="margin: 15px 0px;">@pageType</h1>
+            </div>
+        </div>
+        <div class="form-row">
+            
+            <div class="col-md-3 offset-md-3 form-group">
+                <label>Recipe Name: </label>
+                <input type="text" required class="form-control" name="recipeName" value="@Model.CurrentRecipe.RecipeName"/>
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-3 offset-md-3 form-group">
+                <label>Meal Type: </label>
+                <input type="text" required class="form-control" name="mealType" value="@Model.CurrentRecipe.MealType"/>
+            </div>
+            
+        </div>
+        
+        <div class="form-row">
+            
+            <div class="col-md-6 offset-md-3 form-group">
+                <label>Main Ingredient: </label>
+                <input type="text" required class="form-control" name="mainIngredient" value="@Model.CurrentRecipe.MainIngredients"/>
+            </div>
+            
+        </div>
+        
+        <div class="form-row">
+            <div class="col-md-6 offset-md-3 form-group">
+                <label>Prep Time: </label>
+                <input type="text" required  class="form-control" name="prepTime" value="@Model.CurrentRecipe.PrepTime" />
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-6 offset-md-3">
+                <button type="button" class="btn btn-secondary" onclick="location.href = '/Recipes/Index'">CANCEL</button>
+                <button type="submit" class="btn btn-primary">SAVE RECIPE</button>
+            </div>
+        </div>
+    </div>
+    <input type="hidden" name="recipeId" value="@Model.CurrentRecipe.RecipeId" />
+</form>
+

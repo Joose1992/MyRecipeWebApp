@@ -1,0 +1,12 @@
+/Users/josemontanez/RiderProjects/MyRecipeWebApp/RecipesWebApp.Data/bin/Debug/net6.0/RecipesWebApp.Data.deps.json
+/Users/josemontanez/RiderProjects/MyRecipeWebApp/RecipesWebApp.Data/bin/Debug/net6.0/RecipesWebApp.Data.dll
+/Users/josemontanez/RiderProjects/MyRecipeWebApp/RecipesWebApp.Data/bin/Debug/net6.0/RecipesWebApp.Data.pdb
+/Users/josemontanez/RiderProjects/MyRecipeWebApp/RecipesWebApp.Data/obj/Debug/net6.0/RecipesWebApp.Data.csproj.AssemblyReference.cache
+/Users/josemontanez/RiderProjects/MyRecipeWebApp/RecipesWebApp.Data/obj/Debug/net6.0/RecipesWebApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josemontanez/RiderProjects/MyRecipeWebApp/RecipesWebApp.Data/obj/Debug/net6.0/RecipesWebApp.Data.AssemblyInfoInputs.cache
+/Users/josemontanez/RiderProjects/MyRecipeWebApp/RecipesWebApp.Data/obj/Debug/net6.0/RecipesWebApp.Data.AssemblyInfo.cs
+/Users/josemontanez/RiderProjects/MyRecipeWebApp/RecipesWebApp.Data/obj/Debug/net6.0/RecipesWebApp.Data.csproj.CoreCompileInputs.cache
+/Users/josemontanez/RiderProjects/MyRecipeWebApp/RecipesWebApp.Data/obj/Debug/net6.0/RecipesWebApp.Data.dll
+/Users/josemontanez/RiderProjects/MyRecipeWebApp/RecipesWebApp.Data/obj/Debug/net6.0/refint/RecipesWebApp.Data.dll
+/Users/josemontanez/RiderProjects/MyRecipeWebApp/RecipesWebApp.Data/obj/Debug/net6.0/RecipesWebApp.Data.pdb
+/Users/josemontanez/RiderProjects/MyRecipeWebApp/RecipesWebApp.Data/obj/Debug/net6.0/ref/RecipesWebApp.Data.dll

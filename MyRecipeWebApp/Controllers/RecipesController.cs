@@ -17,7 +17,7 @@ public class RecipesController : Controller
     public IActionResult Index()
     {
         RecipesViewModel model = new RecipesViewModel(_context);
-        return View();
+        return View(model);
     }
     
     [HttpPost]

@@ -24,8 +24,8 @@ public class PracticeContext : DbContext
             {
                 entity.HasKey(e => e.RecipeId);
 
-                entity.Property(e => e.RecipeId)
-                    .HasColumnName("RecipeId");
+                entity.Property(e => e.RecipeId);
+                    
 
                 entity.Property(e => e.RecipeName)
                     .IsRequired()

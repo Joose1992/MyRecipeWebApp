@@ -9,6 +9,6 @@
     "\\RecipesWebApp.Data",
     "\\RecipesWebApp.Data\\Repositories"
   ],
-  "SelectedNode": "\\MyRecipeWebApp\\Views\\Recipes\\Index.cshtml",
+  "SelectedNode": "\\MyRecipeWebApp\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

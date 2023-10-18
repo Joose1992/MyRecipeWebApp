@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MyRecipeWebApp",
+    "\\MyRecipeWebApp\\Controllers",
+    "\\MyRecipeWebApp\\Models",
+    "\\MyRecipeWebApp\\Views",
+    "\\MyRecipeWebApp\\Views\\Recipes",
+    "\\RecipesWebApp.Data",
+    "\\RecipesWebApp.Data\\Repositories"
+  ],
+  "SelectedNode": "\\MyRecipeWebApp\\Views\\Recipes\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
